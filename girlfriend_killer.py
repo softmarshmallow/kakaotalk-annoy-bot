@@ -4,7 +4,7 @@ import random
 import pyperclip
 girl_names = ["가이", "나린", "다슬", "라나", "늘봄", "드리", "루리", "민예", "규하", "초이", "태희", "민아", "민정", "혜교", "나영"]
 wait_for_input_duration: int = 3
-loop_for: int = 50
+loop_for: int = 20
 annoy_interval: float = 0.5
 chat_room_position: pyautogui.Point = None
 send_button_position: pyautogui.Point = None
